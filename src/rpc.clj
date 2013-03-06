@@ -1,3 +1,5 @@
+;; Copyright 2013 Marcus Cavanaugh <m@mcav.com>
+;; MIT Licensed.
 (ns stream.core
   (:require [clojure.java.io :as io]
             [clojure.string :as str]

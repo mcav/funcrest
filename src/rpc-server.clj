@@ -1,3 +1,5 @@
+;; Copyright 2013 Marcus Cavanaugh <m@mcav.com>
+;; MIT Licensed.
 (ns stream.server
   (:use compojure.core)
   (:require [compojure.route :as route]
