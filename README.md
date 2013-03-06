@@ -1,0 +1,4 @@
+funcrest
+========
+
+Functional REST interfaces.
